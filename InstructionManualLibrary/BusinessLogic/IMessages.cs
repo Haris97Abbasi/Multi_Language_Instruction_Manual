@@ -1,6 +1,6 @@
 ﻿namespace InstructionManualLibrary.BusinessLogic;
 
-internal interface IMessages
+public interface IMessages
 {
     string Instructions(string language);
 }
