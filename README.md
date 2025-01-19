@@ -22,7 +22,7 @@ Welcome to the GitHub repository for the Multi-Language Instruction Manual Conso
 To run this application on your local machine, follow these simple steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/multi-language-instruction-manual.git
+git clone https://github.com/Haris97Abbasi/multi-language-instruction-manual.git
 
 2. Navigate to the solution folder and build the solution:
 dotnet build
