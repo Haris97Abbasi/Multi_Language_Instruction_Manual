@@ -1,0 +1,32 @@
+[
+  {
+    "language": "en",
+    "translation": {
+      "Instructions": "To use the web app, start by creating an account through the signup page, then log in with your credentials. Navigate the main menu to access different features like creating, editing, or viewing content. Use the help section for detailed guides on specific functions. Ensure to log out after each session for security. For further assistance, contact support via the email link provided on the website."
+    }
+  },
+  {
+    "language": "de",
+    "translation": {
+      "Instructions": "Um die Web-App zu verwenden, erstellen Sie zunächst ein Konto über die Anmeldeseite und loggen Sie sich dann mit Ihren Zugangsdaten ein. Navigieren Sie durch das Hauptmenü, um auf verschiedene Funktionen wie das Erstellen, Bearbeiten oder Ansehen von Inhalten zuzugreifen. Nutzen Sie den Hilfebereich für detaillierte Anleitungen zu spezifischen Funktionen. Vergewissern Sie sich, dass Sie sich nach jeder Sitzung aus Sicherheitsgründen ausloggen. Bei weiteren Fragen wenden Sie sich bitte über den auf der Website bereitgestellten E-Mail-Link an den Support."
+    }
+  },
+  {
+    "language": "fr",
+    "translation": {
+      "Instructions": "Pour utiliser l'application web, commencez par créer un compte via la page d'inscription, puis connectez-vous avec vos identifiants. Naviguez dans le menu principal pour accéder à différentes fonctionnalités telles que créer, modifier ou consulter des contenus. Utilisez la section d'aide pour des guides détaillés sur les fonctions spécifiques. Assurez-vous de vous déconnecter après chaque session pour votre sécurité. Pour plus d'assistance, contactez le support via le lien e-mail fourni sur le site."
+    }
+  },
+  {
+    "language": "es",
+    "translation": {
+      "Instructions": "Para usar la aplicación web, comienza creando una cuenta a través de la página de registro, luego inicia sesión con tus credenciales. Navega por el menú principal para acceder a diferentes funciones como crear, editar o ver contenido. Utiliza la sección de ayuda para guías detalladas sobre funciones específicas. Asegúrate de cerrar sesión después de cada uso por seguridad. Para más asistencia, contacta al soporte a través del enlace de correo electrónico proporcionado en el sitio web."
+    }
+  },
+  {
+    "language": "it",
+    "translation": {
+      "Instructions": "Per utilizzare l'app web, inizia creando un account attraverso la pagina di registrazione, quindi accedi con le tue credenziali. Naviga nel menu principale per accedere a diverse funzionalità come creare, modificare o visualizzare contenuti. Utilizza la sezione di aiuto per guide dettagliate su funzioni specifiche. Assicurati di disconnetterti dopo ogni sessione per sicurezza. Per ulteriore assistenza, contatta il supporto tramite il link e-mail fornito sul sito web."
+    }
+  }
+]
